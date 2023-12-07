@@ -19,7 +19,3 @@ The primary objective of this dashboard is to discern valuable insights pertaini
 ## Usage
 
 Effortlessly manage your personal finances with our intuitive dashboard. Use date filters to focus on specific years or months, and view tailored statistics and trends. Categorize income and expenses for a structured overview, and dive deeper with detailed financial statements. Make informed decisions to optimize your financial well-being.
-
-## Reference
-
-https://www.youtube.com/watch?v=pqSoCa2NGj4&pp=ygUicGVyc29uYWwgZmluYW5jZSBwb3dlcmJpIGRhc2hib2FyZA%3D%3D
